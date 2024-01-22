@@ -20,7 +20,7 @@ This is a Discord bot that provides information about items, quests, and ammunit
 
 3. Replace `'YOUR_BOT_TOKEN'` in the code with your Discord bot's token.
 
-4. Run the bot using `python bot.py`.
+4. Run the bot using `python tarkovy.py`.
 
 ## Commands
 
